@@ -16,6 +16,13 @@
 | 硬盘      | 西数sn770 1TB                   | &#9745;   |
 | 网卡      | AX211                         | &#9745;   |
 
+![77e14fc18be31e5f0a9cc8120dbd2e1a](https://github.com/rhwQwQ/ROG-STRIX-B760-G-D5-EFI/assets/14314953/96c93a39-213c-43d3-8cd1-687d18b642b7)
+![2127679419](https://github.com/rhwQwQ/ROG-STRIX-B760-G-D5-EFI/assets/14314953/c6cb761f-49b2-4af4-abe6-845d637e8bda)
+![1282294418](https://github.com/rhwQwQ/ROG-STRIX-B760-G-D5-EFI/assets/14314953/8a7d23ef-2027-4280-9f12-1fac1dc733a7)
+![431427723](https://github.com/rhwQwQ/ROG-STRIX-B760-G-D5-EFI/assets/14314953/7f0a7e69-137c-4a50-adee-943845c37867)
+![3305690265](https://github.com/rhwQwQ/ROG-STRIX-B760-G-D5-EFI/assets/14314953/de1e5806-50e3-4e31-8785-61db44b6ff5f)
+
+
 
 
 ## 已知问题：

@@ -1,6 +1,6 @@
 # ROG-STRIX-B760-G-D5-黑苹果EFI
 ## 系统版本
-* MacOS Sonoma 14.1.2
+* MacOS Sonoma 14.2.1
 
 ## Opencore版本
 * 0.9.7
@@ -16,7 +16,7 @@
 | 硬盘      | 西数sn770 1TB                   | &#9745;   |
 | 网卡      | AX211                         | &#9745;   |
 
-![77e14fc18be31e5f0a9cc8120dbd2e1a](https://github.com/rhwQwQ/ROG-STRIX-B760-G-D5-EFI/assets/14314953/96c93a39-213c-43d3-8cd1-687d18b642b7)
+![WeChatbe4e21f74e65c4ec898e4bcc90e551bc](https://github.com/rhwQwQ/ROG-STRIX-B760-G-D5-EFI/assets/14314953/3df7b366-503d-430a-9a64-dc1d2942e951)
 ![2127679419](https://github.com/rhwQwQ/ROG-STRIX-B760-G-D5-EFI/assets/14314953/c6cb761f-49b2-4af4-abe6-845d637e8bda)
 ![1282294418](https://github.com/rhwQwQ/ROG-STRIX-B760-G-D5-EFI/assets/14314953/8a7d23ef-2027-4280-9f12-1fac1dc733a7)
 ![431427723](https://github.com/rhwQwQ/ROG-STRIX-B760-G-D5-EFI/assets/14314953/7f0a7e69-137c-4a50-adee-943845c37867)
